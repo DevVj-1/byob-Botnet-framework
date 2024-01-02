@@ -1,4 +1,5 @@
 ![Banner](https://github.com/malwaredllc/byob/blob/master/byob/static/byob_logo_black.svg)
+![preview-dashboard](https://github.com/DevVj-1/byob-Botnet-framework/assets/106962581/ec964ce1-7f9f-4928-b1fb-8fa3eb838826)
 
 [![license](https://img.shields.io/badge/license-GPL-brightgreen.svg)](https://github.com/malwaredllc/byob/blob/master/LICENSE)
 [![version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/malwaredllc/byob)
@@ -36,6 +37,7 @@ The payload generator uses black magic involving Docker containers & Wine server
 
 ## Terminal Emulator
 The web app includes an in-browser terminal emulator so you can still have direct shell access even when using the web GUI.
+![Shell-Access-1024x355](https://github.com/DevVj-1/byob-Botnet-framework/assets/106962581/8c79dbfa-80b8-4aa5-9990-dc5007cdbf69)
 
 ![terminal_preview](https://github.com/malwaredllc/byob/blob/master/web-gui/buildyourownbotnet/assets/images/previews/preview-shell.png)
 
